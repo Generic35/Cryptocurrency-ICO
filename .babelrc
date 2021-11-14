@@ -1,0 +1,6 @@
+// 20211113140936
+// https://raw.githubusercontent.com/dappuniversity/ico_irl/master/.babelrc
+
+{
+  "presets": ["es2015", "stage-2", "stage-3"]
+}
