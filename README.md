@@ -1,6 +1,6 @@
 # Cryptocurrency-ICO
 
-### A real world initial coin offering (ICO)
+### A real world initial coin offering (ICO) including: 
 
 #### Crowdsale
 - Crowdsale: Send Ether to the contract which computes the amount of tokens purchased in return based on the rate
