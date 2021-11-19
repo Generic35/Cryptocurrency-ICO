@@ -3,7 +3,7 @@
 ### A real world initial coin offering (ICO) including: 
 
 #### Crowdsale
-- Crowdsale: Send Ether to the contract which computes the amount of tokens purchased in return based on the rate
+- Crowdsale: Investors send Ether to the contract which computes the amount of tokens the investor should get in return based on the a configured rate of tokens per ETH.
 - Timed Crowsale: The Crowdsale has an opening time and a closing time
 - Capped Crowsale: The Crowdsale has a maximuma amount of funds that can be raised in the crowdsale
 - Minted Crowdsale: The token is mintable, meaning each time a token is purchased the smart contract mints a token, instead of having a set total supply.
